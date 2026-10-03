@@ -4,6 +4,8 @@ A modern blogging platform built with React, Redux Toolkit, Tailwind CSS, and Ap
 
 ![Home Screenshot](./screenshots/home.png)
 
+Live: https://ink-flow-gules.vercel.app/
+
 ---
 
 ## 🚀 Features

@@ -97,8 +97,5 @@ npm run dev
 
 **Nitin**
 
-GitHub:
-https://github.com/NitinDevCodes
-
 LinkedIn:
-(Add later)
+https://www.linkedin.com/in/nitin-jha-a9035b30b/
